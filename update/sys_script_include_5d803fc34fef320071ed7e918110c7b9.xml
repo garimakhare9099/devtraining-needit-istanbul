@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_58872_needit.NeeItUtils</api_name>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>NeeItUtils</name>
+        <script><![CDATA[var NeeItUtils = Class.create();
+NeeItUtils.prototype = {
+    initialize: function() {
+    },
+isDateToday: function(strDate){
+		
+		
+		var rightnow = new GlideDateTime();
+		var testdate = new GlideDateTime(strDate);
+	    var today = rightnow.getLocalDate();
+		var istoday = testdate.getLocalDate();
+	if(today.compareTo(istoday) == 0){
+			return true;
+		}
+		else {
+			return false;
+		}
+	},
+    type: 'NeeItUtils'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>garima.khare</sys_created_by>
+        <sys_created_on>2017-06-29 06:58:45</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>5d803fc34fef320071ed7e918110c7b9</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>NeeItUtils</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_script_include_5d803fc34fef320071ed7e918110c7b9</sys_update_name>
+        <sys_updated_by>garima.khare</sys_updated_by>
+        <sys_updated_on>2017-06-29 07:14:43</sys_updated_on>
+    </sys_script_include>
+</record_update>
