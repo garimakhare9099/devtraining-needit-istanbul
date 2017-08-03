@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="sys_process_flow" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="sys_process_flow" element="NULL" name="sys_process_flow" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">feac57ee4f92320071ed7e918110c74a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>garima.khare</sys_created_by>
+            <sys_created_on>2017-04-26 12:52:54</sys_created_on>
+            <sys_id>36ac57ee4f92320071ed7e918110c74b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>garima.khare</sys_updated_by>
+            <sys_updated_on>2017-04-26 12:52:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>active</element>
+            <list_id display_value="sys_process_flow" element="NULL" name="sys_process_flow" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">feac57ee4f92320071ed7e918110c74a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>garima.khare</sys_created_by>
+            <sys_created_on>2017-04-26 12:52:54</sys_created_on>
+            <sys_id>b6ac57ee4f92320071ed7e918110c74b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>garima.khare</sys_updated_by>
+            <sys_updated_on>2017-04-26 12:52:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>condition</element>
+            <list_id display_value="sys_process_flow" element="NULL" name="sys_process_flow" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">feac57ee4f92320071ed7e918110c74a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>garima.khare</sys_created_by>
+            <sys_created_on>2017-04-26 12:52:54</sys_created_on>
+            <sys_id>3aac57ee4f92320071ed7e918110c74b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>garima.khare</sys_updated_by>
+            <sys_updated_on>2017-04-26 12:52:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>description</element>
+            <list_id display_value="sys_process_flow" element="NULL" name="sys_process_flow" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">feac57ee4f92320071ed7e918110c74a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>garima.khare</sys_created_by>
+            <sys_created_on>2017-04-26 12:52:54</sys_created_on>
+            <sys_id>baac57ee4f92320071ed7e918110c74b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>garima.khare</sys_updated_by>
+            <sys_updated_on>2017-04-26 12:52:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>label</element>
+            <list_id display_value="sys_process_flow" element="NULL" name="sys_process_flow" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">feac57ee4f92320071ed7e918110c74a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>garima.khare</sys_created_by>
+            <sys_created_on>2017-04-26 12:52:54</sys_created_on>
+            <sys_id>3eac57ee4f92320071ed7e918110c74b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>garima.khare</sys_updated_by>
+            <sys_updated_on>2017-04-26 12:52:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>order</element>
+            <list_id display_value="sys_process_flow" element="NULL" name="sys_process_flow" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">feac57ee4f92320071ed7e918110c74a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>garima.khare</sys_created_by>
+            <sys_created_on>2017-04-26 12:52:54</sys_created_on>
+            <sys_id>beac57ee4f92320071ed7e918110c74b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>garima.khare</sys_updated_by>
+            <sys_updated_on>2017-04-26 12:52:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>table</element>
+            <list_id display_value="sys_process_flow" element="NULL" name="sys_process_flow" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">feac57ee4f92320071ed7e918110c74a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>garima.khare</sys_created_by>
+            <sys_created_on>2017-04-26 12:52:54</sys_created_on>
+            <sys_id>32ac57ee4f92320071ed7e918110c74c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>garima.khare</sys_updated_by>
+            <sys_updated_on>2017-04-26 12:52:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>sys_process_flow</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>garima.khare</sys_created_by>
+            <sys_created_on>2017-07-31 09:56:26</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>06ecc5ed4f90030071ed7e918110c770</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_process_flow</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_list_sys_process_flow_null</sys_update_name>
+            <sys_updated_by>garima.khare</sys_updated_by>
+            <sys_updated_on>2017-07-31 09:56:26</sys_updated_on>
+            <sys_user display_value="Garima Khare">c9e5932e4f92320071ed7e918110c7cd</sys_user>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
